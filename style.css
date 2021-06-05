@@ -1,0 +1,26 @@
+.Line{
+    width: 90px;
+    height: 6px;
+    background-color: dodgerblue;
+}
+#Apps{
+    height: 700px;
+    width: 100%;
+    background-color:azure;
+}
+#Chatbot{
+    height: 500px;
+    width: 100%;
+    background-color:khaki;
+}
+#Games{
+    height: 500px;
+    width: 100%;
+    background-color:olivedrab;
+}
+img {
+    transition: transform 0.7s;
+}
+img:hover{
+    transform: scale(0.5);
+}
